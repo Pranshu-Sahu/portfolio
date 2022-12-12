@@ -1,0 +1,4 @@
+input.css
+node_modules
+*.json
+tailwind.config.js
